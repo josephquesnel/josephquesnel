@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @josephquesnel
-- 👀 I’m interested in Python, Webapp development on Heroku, Data analytics & Webdesign. 
-- 🌱 I’m currently learning Data Analytics in the wonderful course: 100 Days of Code: The Complete Python Pro Bootcamp for 2022 on Udemy.
-- 💞️ I’m looking to collaborate on intermediate python based data analytics projects!
+- 👀 I’m interested in Python,Django Webapp development on Heroku.
+- 🌱 I’m currently learning Algorithms & Data structures on LeetCode.
+- 💞️ I’m looking to collaborate on python webapps & API's. 
 - 📫 Reach me by email josephquesnel@ymail.com
 
 <!---
