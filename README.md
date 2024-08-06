@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @josephquesnel
-- 👀 I’m interested in Python,Django Webapp development on Heroku.
-- 🌱 I’m currently learning Algorithms & Data structures on LeetCode.
-- 💞️ I’m looking to collaborate on python webapps & API's. 
+-- 👋 Hi, I’m @josephquesnel
+- 👀 I’m interested in Python, App and Backend development!.
+- 🌱 I’m currently learning about AI/ regression modelling using Azure.
+- 💞️ I’m looking to collaborate on any. 
 - 📫 Reach me by email josephquesnel@ymail.com
 
 <!---
