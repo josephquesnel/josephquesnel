@@ -1,8 +1,9 @@
--- 👋 Hi, I’m @josephquesnel
-- 👀 I’m interested in Python, App and Backend development!.
+👋 Hi, I’m @josephquesnel
+===============
+I’m currently interested in backend C# .NET and Python development with a focus on AI development and implementation.
 - 🌱 I’m currently learning about AI/ regression modelling using Azure.
-- 💞️ I’m looking to collaborate on any. 
-- 📫 Reach me by email josephquesnel@ymail.com
+- 💞️ I am not currently looking for collaborators. 
+- 📫 You can contact me by email josephquesnel@ymail.com
 
 <!---
 josephquesnel/josephquesnel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
