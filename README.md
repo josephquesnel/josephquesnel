@@ -1,7 +1,6 @@
 👋 Hi, I’m @josephquesnel
 ===============
-I’m currently interested in backend C# .NET and Python development with a focus on AI development and implementation.
-- 🌱 I’m currently learning about AI/ regression modelling using Azure.
+I’m currently interested in backend C# .NET and Python development.
 - 💞️ I am not currently looking for collaborators. 
 - 📫 You can contact me by email josephquesnel@ymail.com
 
